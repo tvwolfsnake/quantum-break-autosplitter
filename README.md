@@ -14,8 +14,7 @@ HOW TO USE:
 5. double-click it in the layout window.
 6. click browse.
 7. select the .asl file.
-8. change your Timer, Splits, and whatever else you'd like to use Game Time instead of RTA.
-9a. consider adding a separate, smaller RTA timer under your loadless timer.
+8. change your Timer, Splits, and whatever else you'd like to use Game Time instead of RTA. (also: consider adding a separate, smaller RTA timer under your loadless timer.)
 9. close the layout windows and you're done! happy running!
 
 KNOWN ISSUES:
