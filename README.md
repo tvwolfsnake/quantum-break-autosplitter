@@ -3,8 +3,8 @@ a (mostly) loadless autosplitter for quantum break speedrunning.
 
 eventually I'll add this to the livesplit autosplitter XML, but for now you can download it here.
 
-A NOTE:
-this autosplitter assumes the only splits in your layout are at the end of each part.
+PLEASE NOTE:
+this autosplitter assumes the only splits in your layout are at the end of each part. currently, you have to do the end split manually. this may change in a later version.
 
 HOW TO USE:
 1. open quantum break. **&ast;**
