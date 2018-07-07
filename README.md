@@ -1,5 +1,5 @@
 # quantum-break-autosplitter
-a (mostly) loadless autosplitter for quantum break speedrunning.
+a loadless autosplitter for quantum break speedrunning.
 
 eventually I'll add this to the livesplit autosplitter XML, but for now you can download it here.
 
