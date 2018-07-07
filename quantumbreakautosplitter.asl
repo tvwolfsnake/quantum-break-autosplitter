@@ -12,7 +12,7 @@ start
 {
 	//chapter sets itself to 0 on startup screen, load starts at 2 and then goes to 3
 	//however, if you false start and reset to main menu before the first save in 1-1,
-	//for whatever reason, chapter is still set to 0.
+	//for whatever reason, chapter is still set to 0 on menu.
 	//3 is later than 2 as a start point, but it's consistent across all possibilities.
 	
 	if (current.load == 3 && current.chapter == 0)
