@@ -8,8 +8,8 @@ PLEASE NOTE:
 - currently, you have to do the end split manually. this may change in a later version.
 
 HOW TO USE:
-1. open quantum break. **&ast;**
-2. download the .asl file.
+1. download the .asl file.
+2. open quantum break. **&ast;**
 3. open livesplit.
 4. add "scriptable auto splitter" to your layout.
 5. double-click it in the layout window.
@@ -26,7 +26,7 @@ KNOWN ISSUES:
 - going to main menu may break the level splits
   - you're not wrong, but I don't personally think this is high priority. quitting to menu will not give you a good time. I will curse my lack of foresight if we find a glitch that requires this.
 - the timer doesn't stop on last input
-  - yeah. I'm legit sorry, I'm still looking for that address. will be fixed in the next version. for now that's a manual split.
+  - yeah. I apologize, I'm still looking for that address. will be fixed in the next version. for now that's a manual split.
   
   
   **&ast;** *in general, you should open the game before you initialize the autosplitter. livesplit claims it'll automatically hook onto the process but I've never had any luck with that.*
