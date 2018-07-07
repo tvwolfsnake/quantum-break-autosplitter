@@ -33,8 +33,6 @@ isLoading
 {
 	//load var sets itself to 3 or 4 on chapter loads and 2 on (some) other load screens.
 	//it also occasionally sets to 2 for a second in other places.
-	//I think the address I found is actually a check to make sure things are loaded...
-	//but it's the only reliable load check I've found.
 	
 	if (current.load > 1)
 	{
