@@ -12,7 +12,7 @@ PLEASE NOTE:
 - currently, you have to do the end split manually. this may change in a later version.
 
 HOW TO USE:
-1. download the .asl file.
+1. download quantumbreakautosplitter.asl from this page.
 2. open quantum break. **&ast;**
 3. open livesplit.
 4. add "scriptable auto splitter" to your layout.
