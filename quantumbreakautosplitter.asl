@@ -17,6 +17,11 @@ startup
 
 update
 {
+	//counter increments 23 on big loads and autosaves.
+	//counter increments 1 on in-game state changes (objectives, etc.) and the start of loads.
+	//this mess is to create a variable that will tell isLoading if a small load
+	//is concurrent with a counter increment of 1 happening at any point in the recent past.
+	
 	if (current.counter == old.counter + 23)
 	{
 	vars.counterauto++;
