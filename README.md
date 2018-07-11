@@ -32,6 +32,8 @@ KNOWN ISSUES:
   - the script *does,* however, still work just fine if you reset and start a new game.
 - the timer doesn't stop on last input
   - yeah. I apologize, I'm still looking for that address. will be fixed in the next version. for now that's a manual split.
+- very, very rarely, the timer doesn't start on Start New Game.
+  - this is an unfortunate bug and I still haven't figured out why it happens. every so often, the pointer we reference for load removal doesn't work. it might be worth it for me to try to find a different pointer path and hope that that one doesn't have this issue. for now, though, just restart the game, and wait until you get to title screen to reopen livesplit. it *should* work within one or two resets.
 - on your 186737th run in a row without closing the game, the script stops working
   - if you're doing over 100k runs in a row, you have bigger problems than my decision to set the `counter` variable to a 32-bit unsigned integer.
   
